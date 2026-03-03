@@ -21,6 +21,9 @@
 ✔ Hiển thị xác suất dự đoán rõ ràng
 ✔ Thiết kế giao diện thân thiện, dễ sử dụng
 
+## Giới thiệu về bộ dữ liệu 
+Bộ dữ liệu là file csv 253k lấy trên kaggle có 21 cột "HighBP","HighChol","CholCheck","BMI","Smoker","Stroke","HeartDiseaseorAttack","PhysActivity","Fruits","Veggies","HvyAlcoholConsump","AnyHealthcare","NoDocbcCost","GenHlth","MentHlth","PhysHlth","DiffWalk","Sex","Age","Education","Income"
+- Được chuyển đổi thành các câu hỏi để người dùng dễ dàng trả lời
 ## 🧪 Các Nhóm Câu Hỏi Khảo Sát
 ### 🧍 Thông Tin Cá Nhân
 
@@ -122,7 +125,7 @@ http://127.0.0.1:5000
 
 📈 Xác suất phần trăm cụ thể (ví dụ: 55.23%)
 
-⚠ Lưu ý: Đây chỉ là công cụ sàng lọc, không thay thế chẩn đoán y khoa chuyên nghiệp.
+# ⚠ Lưu ý: Đây chỉ là công cụ sàng lọc, không thay thế chẩn đoán y khoa chuyên nghiệp.
 
 ## 🛠️ Công Nghệ Sử Dụng
 Công Nghệ	Vai Trò
