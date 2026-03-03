@@ -93,15 +93,15 @@ Mặc định: 0.65
 - Responsive (tương thích nhiều màn hình)
 
 ## 📂 Cấu Trúc Thư Mục
-ML_Diabetes_Risk/
-│
-├── app.py                 # Backend Flask
-├── model.joblib           # Mô hình ML đã huấn luyện
-├── templates/
-│   ├── index.html         # Trang khảo sát
-│   └── result.html        # Trang kết quả
-├── static/                # Tài nguyên (nếu có)
-└── README.md
+#### ML_Diabetes_Risk/
+#### │
+#### ├── app.py                 # Backend Flask
+#### ├── model.joblib           # Mô hình ML đã huấn luyện
+#### ├── templates/
+#### │   ├── index.html         # Trang khảo sát
+#### │   └── result.html        # Trang kết quả
+#### ├── static/                # Tài nguyên 
+#### └── README.md
 
 ## 🚀 Hướng Dẫn Chạy Dự Án
 #### 1️⃣ Clone Repository
