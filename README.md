@@ -22,7 +22,10 @@
 ✔ Thiết kế giao diện thân thiện, dễ sử dụng
 
 ## Giới thiệu về bộ dữ liệu 
-Bộ dữ liệu là file csv 253k lấy trên kaggle có 21 cột "HighBP","HighChol","CholCheck","BMI","Smoker","Stroke","HeartDiseaseorAttack","PhysActivity","Fruits","Veggies","HvyAlcoholConsump","AnyHealthcare","NoDocbcCost","GenHlth","MentHlth","PhysHlth","DiffWalk","Sex","Age","Education","Income"
+- Bộ dữ liệu là file csv 253k lấy trên kaggle có 21 cột
+
+"HighBP","HighChol","CholCheck","BMI","Smoker","Stroke","HeartDiseaseorAttack","PhysActivity","Fruits","Veggies","HvyAlcoholConsump","AnyHealthcare","NoDocbcCost","GenHlth","MentHlth","PhysHlth","DiffWalk","Sex","Age","Education","Income"
+
 - Được chuyển đổi thành các câu hỏi để người dùng dễ dàng trả lời
 ## 🧪 Các Nhóm Câu Hỏi Khảo Sát
 ### 🧍 Thông Tin Cá Nhân
